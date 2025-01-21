@@ -38,7 +38,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 ### Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nickname&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Lenguajes más usados" />
 </p>
 
 ### Mis estadísticas
