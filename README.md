@@ -34,6 +34,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
   <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white">
 </p>
 
+<!--
 ## Estadísticas de GitHub
 
 ### Lenguajes más usados
@@ -51,7 +52,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 ✨ _¡Gracias por visitar mi perfil!_ ✨
 
-<!--
+
 **CatalinaLuna/CatalinaLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
