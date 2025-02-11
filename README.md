@@ -34,12 +34,6 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
   <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white">
 </p>
 
-## Contacto
-<p align="center">
-  <a href="mailto:catalinaluna004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-🪐
 <!--
 ## Estadísticas de GitHub
 
