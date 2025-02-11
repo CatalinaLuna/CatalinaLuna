@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Catalina Luna</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img alain="center" width="750px" alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
+  <img align="center" width="750px" alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 </p>
 
 ## Sobre mí
@@ -10,10 +10,10 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 - 📫 Contáctame en: [catalinaluna004@gmail.com](mailto:catalinaluna004@gmail.com)
 
-## Mis habilidades incluyen
+## Mis habilidades
 
 ### Lenguajes
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -23,7 +23,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 </p>
 
 ### Otras herramientas y tecnologías
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
@@ -34,6 +34,12 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
   <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white">
 </p>
 
+## Contacto
+<p align="center">
+  <a href="mailto:catalinaluna004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+🪐
 <!--
 ## Estadísticas de GitHub
 
