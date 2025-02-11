@@ -34,6 +34,9 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
   <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white">
 </p>
 
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
 <!--
 ## Estadísticas de GitHub
 
