@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
+Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web.
 
 - 📫 Contáctame en: [catalinaluna004@gmail.com](mailto:catalinaluna004@gmail.com)
 
